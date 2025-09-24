@@ -9,8 +9,8 @@
 
 #
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Atualmente curso Engenharia de Software pela Universidade Federal de Mato Grosso do Sul, e paralelamente estudo focado em linguagem Java e C++.
- Acredito que o desenvolvimento de Software tem um enorme potencial prático para comunidade em minha volta, e assim sendo foco meu aprendizado em conhecimentos que me permitam
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Atualmente curso Engenharia de Software na Universidade Federal de Mato Grosso do Sul, e paralelamente estudo focado em linguagem Java e C++.
+ Acredito que o desenvolvimento de Software tem um enorme potencial prático para comunidade em minha volta e, assim sendo, foco meu aprendizado em conhecimentos que me permitam
 solucionar problemas reais que permeiam minhas experiências.
     
 #
